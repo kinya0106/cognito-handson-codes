@@ -37,7 +37,7 @@
     * メールに検証コードが届くのでactivation.htmlを開きユーザをアクティベート
 
 * サインイン／マイページ作成
-  * signup.html/activation.html修正
+  * signin.html/mypage.html修正
     * `<IdentityPoolId>`をIDプールIDに置き換える
     * `<UserPoolId>`をユーザプールIDに置き換える
     * `<AppClientId>`をアプリクライアントIDに置き換える
